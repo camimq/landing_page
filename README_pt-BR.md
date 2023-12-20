@@ -32,7 +32,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE.md 
 
 ---
 
-Made with ❤️ by Cami Queiroz 👋🏽 Get in touch!
+Feito com ❤️ por Cami Queiroz 👋🏽 Vamos falar! 😄
 
 [![Twitter Badge](https://img.shields.io/badge/-@camimq-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/camimq)](https://twitter.com/camimq) [![Linkedin Badge](https://img.shields.io/badge/-Cami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaqueiroz)](https://www.linkedin.com/in/camilaqueiroz)
 [![Gmail Badge](https://img.shields.io/badge/-camidmq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camidmq@gmail.com)](mailto:camidmq@gmail.com)
