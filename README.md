@@ -1,6 +1,6 @@
 # A Simple Langind Page
 
-> Just a simple landing page builded with HTML and CSS, following a tutorial from the awesome [Rafa Ballerini](https://github.com/rafaballerini).
+> Um protjetinho simples de _landing page_, construído com HTML e CSS e inspirado pelo trabalho da [Rafa Ballerini](https://github.com/rafaballerini).
 
 ## O Projeto
 
