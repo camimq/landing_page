@@ -1,3 +1,5 @@
+[🔃 (go-to 🇺🇸) English Version](https://github.com/camimq/landing_page/blob/main/README.md)
+
 # A Simple Langind Page
 
 > Um protjetinho simples de _landing page_, construído com HTML e CSS e inspirado pelo trabalho da [Rafa Ballerini](https://github.com/rafaballerini).
