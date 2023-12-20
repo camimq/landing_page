@@ -10,14 +10,28 @@ This tutorial was taken from [Rafa Ballerini’s YouTube Channel](https://youtu.
 
 Based on what Rafa Ballerini shared, I created a page with my own tweaks. 😄
 
-🌐 When I finished this tutorial, I made the result available on the web by deploying it on Vercel.
+🌐 When I finished this tutorial, I made the result available on the web by deploying it on [Vercel](https://vercel.com/).
 
-How to run the project
-Clone this repository.
-Open the index.html file in your web browser.
-Technologies used
+## How to run the project
 
-<div align=“center” style=“display: inline_block”><br> <img align=“center” alt=“Cami-HTML” height=“40” width=“50” src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg”> <img align=“center” alt=“Cami-CSS” height=“40” width=“50” src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg”> </div>
+1. Clone this repository.
+2. Open the index.html file in your web browser.Technologies used
 
-License
+## Technologies used
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Cami-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cami-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+## License
+
 This project is licensed under the MIT License. See the LICENSE.md file for more information.
+
+---
+
+Made with ❤️ by Cami Queiroz 👋🏽 Get in touch!
+
+[![Twitter Badge](https://img.shields.io/badge/-@camimq-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/camimq)](https://twitter.com/camimq) [![Linkedin Badge](https://img.shields.io/badge/-Cami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaqueiroz)](https://www.linkedin.com/in/camilaqueiroz)
+[![Gmail Badge](https://img.shields.io/badge/-camidmq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camidmq@gmail.com)](mailto:camidmq@gmail.com)
