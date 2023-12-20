@@ -6,9 +6,7 @@
 
 Trata-se de um tutorial para exercitar um pouco das minhas _skills_ de _front end_, que a tanto tempo estão paradas. 😊
 
-Esse tutorial foi retirado do Canal de YouTube da Rafa Ballerini (vídeo abaixo).
-
-[Canal de YouTube](https://youtu.be/Lx_YsoMgP40?si=2wQZWpU9EWNEbZf5)
+Esse tutorial foi retirado do [Canal de YouTube da Rafa Ballerini](https://youtu.be/Lx_YsoMgP40?si=2wQZWpU9EWNEbZf5).
 
 À partir do que a Rafa Ballerini compartilhou, eu criei uma página com os meus pitacos. :smile: 
 
