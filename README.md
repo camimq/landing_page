@@ -1,3 +1,5 @@
+[🔃 (go-to :brazil:) Versão em Português-BR](https://github.com/camimq/landing_page/blob/main/README_pt-BR.md)
+
 # A Simple Langind Page
 
 A simple landing page project, built with HTML and CSS and inspired by the work of [Rafa Ballerini](https://github.com/rafaballerini).
@@ -23,7 +25,6 @@ Based on what Rafa Ballerini shared, I created a page with my own tweaks. 😄
   <img align="center" alt="Cami-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cami-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
 
 ## License
 
